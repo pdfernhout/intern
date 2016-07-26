@@ -206,6 +206,7 @@ define([
 				error: null,
 				id: 'parent id - test name',
 				name: 'test name',
+				parentId: 'parent id',
 				sessionId: 'abcd',
 				timeElapsed: 100,
 				timeout: 30000,
