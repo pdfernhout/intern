@@ -9,7 +9,7 @@
   },
   "license": "BSD-3-Clause",
   "dependencies": {
-    "benchmark": "bestiejs/benchmark.js#8c2b72a98945035e5c43e57da3b29185a0462cb1",
+    "benchmark": "2.1.1",
     "chai": "3.5.0",
     "charm": "0.2.0",
     "diff": "1.1.0",
