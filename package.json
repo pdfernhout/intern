@@ -18,8 +18,8 @@
     "glob": "7.0.3",
     "istanbul": "0.4.1",
     "leadfoot": "1.6.12",
-    "lodash-amd": "3.10.0",
-    "microtime": "1.4.2",
+    "lodash-amd": "4.16.1",
+    "microtime": "2.1.1",
     "mimetype": "0.0.8",
     "platform": "1.3.0",
     "source-map": "0.1.33"
